@@ -1,13 +1,17 @@
 # China Trip Plan — November 2026 (v4.0 — Beijing Extended + Shanghai Open Day)
 
-**Travelers:** 2 (couple)
-**Dates:** November 1 – November 21, 2026
-**Flight home:** November 22, 00:10 from Shanghai Pudong (PVG) to Europe
-**Total days on the ground:** 21 days
+**Travelers:** 2 (couple)  
+**Dates:** November 1 – November 21, 2026  
+**Flight home:** November 22, 00:10 from Shanghai Pudong (PVG) to Europe  
+**Total days on the ground:** 21 days  
+**Revision:** v4  
+**Revision Date**: 15/08/2026  
 
 ---
+<br/>
 
-## 1. Final Itinerary (Revised with Days of Week)
+## 1. Final Itinerary (Revised with Days of Week)  
+
 
 | Date | Day | Location | Activity / Notes |
 |------|-----|----------|----------------|
@@ -34,32 +38,12 @@
 | **Nov 21** | **Sat** | **Shanghai → Departure** | Relaxed morning/afternoon. Head to Pudong by 21:00–21:30 for the **00:10 flight** |
 
 ---
-
-## 2. Critical Changes from v3.0
-
-| What Changed | From | To | Rationale |
-|--------------|------|-----|-----------|
-| **Beijing** | 3 days (Nov 1–3) | **4 days (Nov 1–4)** | Added unhurried cultural day for Hutongs, Lama Temple, Confucius Temple & Imperial College, and 798 Art District. |
-| **Beijing → Xi'an** | Nov 4 | **Nov 5** | Shifted by one day to accommodate the extra Beijing day. |
-| **Shanghai** | 3.5 days + Hangzhou day trip (Nov 17–21) | **2.5 days + Open Question day (Nov 18–21)** | Removed one full Shanghai day. The city is now covered by Nov 18 evening arrival + Nov 19 (full day) + Nov 21 (departure day). Nov 20 is kept as a flexible day-trip slot. |
-| **Sequence shift** | Entire itinerary from Nov 5 onward | **Shifted +1 day** | All downstream dates (Xi'an, Chengdu, Chongqing, Zhangjiajie) move forward by one day. No Monday closure conflicts are introduced — see verification below. |
+<br/>
 
 ---
 
-## 3. Monday Closure Verification After Shift
-
-| Attraction | Original Date | New Date | Monday Closure? | Status |
-|------------|---------------|----------|-----------------|--------|
-| Jinshanling Great Wall | Nov 2 (Mon) | Nov 2 (Mon) | Open daily | ✅ |
-| Summer Palace halls | Nov 3 (Tue) | Nov 3 (Tue) | Open | ✅ |
-| Temple of Heaven halls | Nov 3 (Tue) | Nov 3 (Tue) | Open | ✅ |
-| Leshan Giant Buddha | Nov 8 (Sun) | Nov 9 (Mon) | Open daily | ✅ |
-| Three Gorges Museum | Nov 10 (Tue) | Nov 11 (Wed) | Closed Mon | ✅ |
-| Zhangjiajie parks | Nov 16 (Mon) | Nov 17 (Tue) | Open daily | ✅ |
-
----
-
-## 4. The New Beijing Cultural Day (Nov 4 — Wednesday)
+## 3. Itinerary Details
+### A. The New Beijing Cultural Day (Nov 4 — Wednesday)
 
 This is designed as a **walking + contemplative day** with no rushed logistics. All four sites are in Beijing; the first three are within 10 minutes' walk of each other.
 
@@ -88,6 +72,28 @@ This is designed as a **walking + contemplative day** with no rushed logistics. 
 | **Hutongs** | All day | Never | — | Free |
 
 ---
+<br/>
+
+## 4. UNESCO Sites on This Route (Updated)
+
+| # | Site | Location | Date Visited | Type |
+|---|------|----------|--------------|------|
+| 1 | Imperial Palaces of the Ming and Qing Dynasties | Forbidden City, Beijing | Nov 1 | Cultural |
+| 2 | Great Wall | Jinshanling | Nov 2 | Cultural |
+| 3 | Summer Palace | Beijing | Nov 3 | Cultural |
+| 4 | Temple of Heaven | Beijing | Nov 3 | Cultural |
+| 5 | Mausoleum of the First Qin Emperor | Terracotta Warriors, Xi'an | Nov 6 | Cultural |
+| 6 | Mount Emei Scenic Area, including Leshan Giant Buddha | Leshan | Nov 9 | Mixed |
+| 7 | Dazu Rock Carvings | Dazu | Nov 12 | Cultural |
+| 8 | Wulingyuan Scenic and Historic Interest Area | Zhangjiajie | Nov 16 | Natural |
+| 9 | West Lake Cultural Landscape of Hangzhou | Hangzhou | *Nov 20 (if chosen)* | Cultural |
+| 10 | The Grand Canal | Hangzhou | *Nov 20 (if chosen)* | Cultural |
+| 11 | Classical Gardens of Suzhou | Suzhou | *Nov 20 (if chosen)* | Cultural |
+
+**Total: 10–11 UNESCO World Heritage Sites** in 21 days, depending on the Nov 20 choice.
+
+----
+<br/>
 
 ## 5. The Open Question Day — Nov 20 (Friday): What to Do?
 
@@ -145,28 +151,9 @@ You now have **one flexible day** before departure. The original v3.0 plan assig
 > **Hangzhou (Option A)** is worth it only if you catch a rare clear November day; otherwise, the lake views will disappoint.
 
 ---
+<br/>
 
-## 6. UNESCO Sites on This Route (Updated)
-
-| # | Site | Location | Date Visited | Type |
-|---|------|----------|--------------|------|
-| 1 | Imperial Palaces of the Ming and Qing Dynasties | Forbidden City, Beijing | Nov 1 | Cultural |
-| 2 | Great Wall | Jinshanling | Nov 2 | Cultural |
-| 3 | Summer Palace | Beijing | Nov 3 | Cultural |
-| 4 | Temple of Heaven | Beijing | Nov 3 | Cultural |
-| 5 | Mausoleum of the First Qin Emperor | Terracotta Warriors, Xi'an | Nov 6 | Cultural |
-| 6 | Mount Emei Scenic Area, including Leshan Giant Buddha | Leshan | Nov 9 | Mixed |
-| 7 | Dazu Rock Carvings | Dazu | Nov 12 | Cultural |
-| 8 | Wulingyuan Scenic and Historic Interest Area | Zhangjiajie | Nov 16 | Natural |
-| 9 | West Lake Cultural Landscape of Hangzhou | Hangzhou | *Nov 20 (if chosen)* | Cultural |
-| 10 | The Grand Canal | Hangzhou | *Nov 20 (if chosen)* | Cultural |
-| 11 | Classical Gardens of Suzhou | Suzhou | *Nov 20 (if chosen)* | Cultural |
-
-**Total: 10–11 UNESCO World Heritage Sites** in 21 days, depending on the Nov 20 choice.
-
----
-
-## 7. Itinerary Conflicts Found & Resolution (Preserved from v3.0, Dates Updated)
+## 6. Itinerary Conflicts Found & Resolution (Preserved from v3.0, Dates Updated)
 
 ### ⚠️ CONFLICT 1: Monday Closures in Beijing (Nov 2)
 
@@ -200,8 +187,40 @@ You now have **one flexible day** before departure. The original v3.0 plan assig
 Direct high-speed trains from Chongqing to Fenghuang County run daily. First train departs **08:43**, journey ~3h 50m. Arrival ~12:33, plus ~1h transfer to Fenghuang ancient town = early afternoon arrival. This is feasible and eliminates the flight connection.
 
 ---
+## 7. Remaining Risks & Contingencies
 
-## 8. Appendix A: Opening Hours & Closing Days
+### Zhangjiajie Weather (Nov 16–17)
+
+- **Risk:** Peak fog season. Famous pillar views may be completely whiteout.
+- **Contingency:** With **two full days** allocated, you have built-in fog insurance. If Nov 16 is whiteout, you can revisit Wulingyuan on Nov 17 morning and do Tianmen Mountain in the afternoon if it clears. Check the forecast 2–3 days before.
+
+### High-Speed Rail Bookings (Updated Dates)
+
+- **Beijing → Xi'an** (Nov 5), **Xi'an → Chengdu** (Nov 7), **Chengdu → Chongqing** (Nov 10), **Chongqing → Fenghuang** (Nov 13), **Furong → Zhangjiajie** (Nov 15) — book all in advance via Trip.com. Passports required for foreign travelers.
+
+### Flights to Confirm
+
+- **Zhangjiajie (DYG) → Shanghai (PVG/SHA):** Morning or afternoon departure needed for Nov 18. 23+ flights/week, ~2h05m.
+
+---
+
+## 8. Open To-Do List (Updated)
+
+- [ ] Book Forbidden City tickets (required, sell out fast) — **for Nov 1 (Sunday)**
+- [ ] Book Summer Palace + Temple of Heaven tickets (Nov 3 — Tuesday)
+- [ ] Book high-speed rail tickets: **Beijing→Xi'an (Nov 5)**, Xi'an→Chengdu (Nov 7), Chengdu→Chongqing (Nov 10)
+- [ ] Confirm & book high-speed train: **Chongqing → Fenghuang County for Nov 13 morning** (~08:43 departure)
+- [ ] Confirm & book flight: **Zhangjiajie (DYG) → Shanghai for Nov 18 morning/afternoon**
+- [ ] Monitor Zhangjiajie weather forecast in early November
+- [ ] Book Sichuan Opera tickets for Nov 8 evening show (Shufeng Yayun or Chengdu Opera House) — **verify 20:00 showtime**
+- [ ] **Decide on Nov 20 activity by early November** based on weather and energy:
+  - If clear and energetic → **Suzhou** (book Shanghai→Suzhou train, reserve Suzhou Museum ticket)
+  - If foggy/rainy or tired → **Deeper Shanghai** or **Jinze**
+  - If specifically wanting the lake → **Hangzhou** (book train, check Lingyin Temple hours)
+
+---
+
+## Appendix A: Opening Hours & Closing Days
 
 ### Beijing
 
@@ -296,52 +315,19 @@ Direct high-speed trains from Chongqing to Fenghuang County run daily. First tra
 
 ---
 
-## 9. Remaining Risks & Contingencies
 
-### Zhangjiajie Weather (Nov 16–17)
+## Changelog:
+### 1. Critical Changes from v3.0
 
-- **Risk:** Peak fog season. Famous pillar views may be completely whiteout.
-- **Contingency:** With **two full days** allocated, you have built-in fog insurance. If Nov 16 is whiteout, you can revisit Wulingyuan on Nov 17 morning and do Tianmen Mountain in the afternoon if it clears. Check the forecast 2–3 days before.
+| What Changed | From | To | Rationale |
+|--------------|------|-----|-----------|
+| **Beijing** | 3 days (Nov 1–3) | **4 days (Nov 1–4)** | Added unhurried cultural day for Hutongs, Lama Temple, Confucius Temple & Imperial College, and 798 Art District. |
+| **Beijing → Xi'an** | Nov 4 | **Nov 5** | Shifted by one day to accommodate the extra Beijing day. |
+| **Shanghai** | 3.5 days + Hangzhou day trip (Nov 17–21) | **2.5 days + Open Question day (Nov 18–21)** | Removed one full Shanghai day. The city is now covered by Nov 18 evening arrival + Nov 19 (full day) + Nov 21 (departure day). Nov 20 is kept as a flexible day-trip slot. |
+| **Sequence shift** | Entire itinerary from Nov 5 onward | **Shifted +1 day** | All downstream dates (Xi'an, Chengdu, Chongqing, Zhangjiajie) move forward by one day. No Monday closure conflicts are introduced — see verification below. |
+  
+----
 
-### High-Speed Rail Bookings (Updated Dates)
+<br/>
 
-- **Beijing → Xi'an** (Nov 5), **Xi'an → Chengdu** (Nov 7), **Chengdu → Chongqing** (Nov 10), **Chongqing → Fenghuang** (Nov 13), **Furong → Zhangjiajie** (Nov 15) — book all in advance via Trip.com. Passports required for foreign travelers.
-
-### Flights to Confirm
-
-- **Zhangjiajie (DYG) → Shanghai (PVG/SHA):** Morning or afternoon departure needed for Nov 18. 23+ flights/week, ~2h05m.
-
----
-
-## 10. Open To-Do List (Updated)
-
-- [ ] Book Forbidden City tickets (required, sell out fast) — **for Nov 1 (Sunday)**
-- [ ] Book Summer Palace + Temple of Heaven tickets (Nov 3 — Tuesday)
-- [ ] Book high-speed rail tickets: **Beijing→Xi'an (Nov 5)**, Xi'an→Chengdu (Nov 7), Chengdu→Chongqing (Nov 10)
-- [ ] Confirm & book high-speed train: **Chongqing → Fenghuang County for Nov 13 morning** (~08:43 departure)
-- [ ] Confirm & book flight: **Zhangjiajie (DYG) → Shanghai for Nov 18 morning/afternoon**
-- [ ] Monitor Zhangjiajie weather forecast in early November
-- [ ] Book Sichuan Opera tickets for Nov 8 evening show (Shufeng Yayun or Chengdu Opera House) — **verify 20:00 showtime**
-- [ ] **Decide on Nov 20 activity by early November** based on weather and energy:
-  - If clear and energetic → **Suzhou** (book Shanghai→Suzhou train, reserve Suzhou Museum ticket)
-  - If foggy/rainy or tired → **Deeper Shanghai** or **Jinze**
-  - If specifically wanting the lake → **Hangzhou** (book train, check Lingyin Temple hours)
-
----
-
-## Appendix B: The Zhangjiajie Buffer (Preserved from v3.0, Dates Updated)
-
-The v4.0 itinerary above has **preserved the Zhangjiajie Buffer** by keeping two full days in Zhangjiajie. This gives you:
-
-| Date | Activity |
-|------|----------|
-| **Nov 16** | Wulingyuan (Yuanjiajie, Tianzi Mountain) |
-| **Nov 17** | Tianmen Mountain (Tianmen Cave, 99 bends, glass skywalk) OR second Wulingyuan day if Nov 16 was fogged out |
-| **Nov 18** | Morning/afternoon flight to Shanghai. Evening on the Bund |
-
-**Trade-off:** You lose one leisurely Shanghai day. You still have Nov 18 evening, Nov 19, and Nov 21 in Shanghai — sufficient for the Bund, Yu Garden, French Concession, and museums. Nov 20 remains an **open question** for a day trip or deeper exploration.
-
----
-
-*Revised: August 2026*
 *Sources: High-speed rail timetables (Trip.com), flight schedules (FlightConnections, Trip.com), UNESCO World Heritage Centre listings, attraction opening hours verified via official Beijing government portal (english.beijing.gov.cn), Trip.com, Travel China Guide, China Discovery, and local tourism boards.*
