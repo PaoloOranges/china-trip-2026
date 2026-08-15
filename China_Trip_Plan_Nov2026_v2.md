@@ -136,8 +136,11 @@
 - [ ] Book Sichuan Opera tickets for Nov 7 afternoon/evening show (Shufeng Yayun or Chengdu Opera House)
 
 ---
+## Appendix A: Closing times
 
-## Appendix A: The Zhangjiajie Buffer (Alternative Scenario)
+- **Forbidden City**: Every Monday Closed. Opening Time Tue-Sun 8.30-16.30. Last Entry 15.30.
+
+## Appendix B: The Zhangjiajie Buffer (Alternative Scenario)
 
 If, after reviewing the itinerary, you feel Zhangjiajie is under-allocated relative to its scale and weather risk, here is a clean alternative that reassigns the Chengdu city day to Zhangjiajie instead.
 
