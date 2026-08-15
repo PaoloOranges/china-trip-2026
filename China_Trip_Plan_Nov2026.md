@@ -1,12 +1,8 @@
- Here is your revised plan with **4 days in Beijing** (adding the unhurried cultural day) and **2.5 days in Shanghai** (removing one full day). The Hangzhou day trip is now reframed as an **open question** with full alternatives analysis.
-
----
-
 # China Trip Plan — November 2026 (v4.0 — Beijing Extended + Shanghai Open Day)
 
-**Travelers:** 2 (couple)  
-**Dates:** November 1 – November 21, 2026  
-**Flight home:** November 22, 00:10 from Shanghai Pudong (PVG) to Europe  
+**Travelers:** 2 (couple)
+**Dates:** November 1 – November 21, 2026
+**Flight home:** November 22, 00:10 from Shanghai Pudong (PVG) to Europe
 **Total days on the ground:** 21 days
 
 ---
@@ -48,7 +44,9 @@
 | **Shanghai** | 3.5 days + Hangzhou day trip (Nov 17–21) | **2.5 days + Open Question day (Nov 18–21)** | Removed one full Shanghai day. The city is now covered by Nov 18 evening arrival + Nov 19 (full day) + Nov 21 (departure day). Nov 20 is kept as a flexible day-trip slot. |
 | **Sequence shift** | Entire itinerary from Nov 5 onward | **Shifted +1 day** | All downstream dates (Xi'an, Chengdu, Chongqing, Zhangjiajie) move forward by one day. No Monday closure conflicts are introduced — see verification below. |
 
-### Monday Closure Verification After Shift
+---
+
+## 3. Monday Closure Verification After Shift
 
 | Attraction | Original Date | New Date | Monday Closure? | Status |
 |------------|---------------|----------|-----------------|--------|
@@ -61,7 +59,7 @@
 
 ---
 
-## 3. The New Beijing Cultural Day (Nov 4 — Wednesday)
+## 4. The New Beijing Cultural Day (Nov 4 — Wednesday)
 
 This is designed as a **walking + contemplative day** with no rushed logistics. All four sites are in Beijing; the first three are within 10 minutes' walk of each other.
 
@@ -86,12 +84,12 @@ This is designed as a **walking + contemplative day** with no rushed logistics. 
 |------------|-------|--------|------------|--------|
 | **Lama Temple** | 9:00–16:30 | Never | 16:00 | ¥25 |
 | **Confucius Temple & Imperial College** | 8:30–17:00 | Never | 16:30 | Combo ¥30 |
-| **798 Art District** | ~10:00–18:00 (galleries) | Never (some galleries closed Mon) | — | Free |
+| **798 Art District** | ~10:00–18:00 (galleries) | Some galleries Mon | — | Free |
 | **Hutongs** | All day | Never | — | Free |
 
 ---
 
-## 4. The Open Question Day — Nov 20 (Friday): What to Do?
+## 5. The Open Question Day — Nov 20 (Friday): What to Do?
 
 You now have **one flexible day** before departure. The original v3.0 plan assigned this to Hangzhou. Below is a full comparison of four options. You do not need to decide now — monitor weather and energy levels in early November.
 
@@ -148,7 +146,7 @@ You now have **one flexible day** before departure. The original v3.0 plan assig
 
 ---
 
-## 5. UNESCO Sites on This Route (Updated)
+## 6. UNESCO Sites on This Route (Updated)
 
 | # | Site | Location | Date Visited | Type |
 |---|------|----------|--------------|------|
@@ -168,17 +166,116 @@ You now have **one flexible day** before departure. The original v3.0 plan assig
 
 ---
 
-## 6. Updated Opening Hours & Closing Days
+## 7. Itinerary Conflicts Found & Resolution (Preserved from v3.0, Dates Updated)
 
-### Beijing (New Entries)
+### ⚠️ CONFLICT 1: Monday Closures in Beijing (Nov 2)
+
+**Original Problem:** Nov 2, 2026 is a **Monday**. Both the **Summer Palace** (Dehe Garden, Wenchang Gallery, Foxiang Pavilion, Suzhou Street) and the **Temple of Heaven** (Qinian Hall, Echo Wall, Huanqiu Altar, Fasting Palace, Divine Music Administration) close their interior tourist areas on Mondays. The park grounds remain open, but you would miss the main attractions.
+
+**Resolution:** Swapped Jinshanling (open daily) to Monday Nov 2, and moved Summer Palace + Temple of Heaven to Tuesday Nov 3. The Forbidden City stays on Sunday Nov 1.
+
+**Beijing Opening Hours Detail:**
+
+| Attraction | Nov 1 (Sun) | Nov 2 (Mon) | Nov 3 (Tue) | Nov 4 (Wed) | Notes |
+|------------|-------------|-------------|-------------|-------------|-------|
+| Forbidden City | ✅ 8:30–16:30 | ❌ **CLOSED** | ✅ 8:30–16:30 | ✅ 8:30–16:30 | Last entry 15:30. Tickets required, book early. |
+| Tiananmen Square | ✅ Open | ✅ Open | ✅ Open | ✅ Open | Sunrise to sunset. ID required. |
+| Summer Palace (park) | ✅ 6:30–19:00 | ✅ 6:30–19:00 | ✅ 6:30–19:00 | ✅ 6:30–19:00 | Park open daily. Last entry 18:00. |
+| Summer Palace (halls) | ✅ 8:30–17:00 | ❌ **CLOSED** | ✅ 8:30–17:00 | ✅ 8:30–17:00 | Dehe Garden, Wenchang Gallery, etc. Last entry 16:30. |
+| Temple of Heaven (park) | ✅ 6:30–22:00 | ✅ 6:30–22:00 | ✅ 6:30–22:00 | ✅ 6:30–22:00 | Park open daily. Last entry 21:00. |
+| Temple of Heaven (halls) | ✅ 8:00–17:00 | ❌ **CLOSED** | ✅ 8:00–17:00 | ✅ 8:00–17:00 | Qinian Hall, Echo Wall, etc. Last entry 16:30. |
+| Jinshanling Great Wall | ✅ 6:00–17:00 | ✅ 6:00–17:00 | ✅ 6:00–17:00 | ✅ 6:00–17:00 | Open daily. Last entry 16:00. Bus from Dongzhimen at 8:00. |
+| Lama Temple | ✅ 9:00–16:30 | ✅ 9:00–16:30 | ✅ 9:00–16:30 | ✅ 9:00–16:30 | Open daily. Last entry 16:00. |
+| Confucius Temple & Imperial College | ✅ 8:30–17:00 | ✅ 8:30–17:00 | ✅ 8:30–17:00 | ✅ 8:30–17:00 | Open daily. Last entry 16:30. |
+| 798 Art District | ✅ ~10:00–18:00 | Some galleries closed | ✅ ~10:00–18:00 | ✅ ~10:00–18:00 | Free. Galleries vary. |
+
+### ⚠️ CONFLICT 2: Sichuan Opera Show Time (Nov 8)
+
+**Original Problem:** The v2.0 plan suggests booking a "~17:00 show" at Shufeng Yayun. However, Shufeng Yayun's main performance typically starts at **20:00** year-round. During peak season (summer/holidays) there may be two shows at 18:00 and 20:00, but November is off-season and the **17:00 show may not exist**.
+
+**Resolution:** Plan for the **20:00 show** (or verify on Trip.com / WeChat closer to the date). Adjust the Nov 8 afternoon schedule: Wenshu Temple → People's Park teahouse → dinner → 20:00 opera show → late hotpot or post-show drinks.
+
+### ✅ VERIFIED: Chongqing to Fenghuang Train (Nov 13)
+
+Direct high-speed trains from Chongqing to Fenghuang County run daily. First train departs **08:43**, journey ~3h 50m. Arrival ~12:33, plus ~1h transfer to Fenghuang ancient town = early afternoon arrival. This is feasible and eliminates the flight connection.
+
+---
+
+## 8. Appendix A: Opening Hours & Closing Days
+
+### Beijing
 
 | Attraction | Opening Hours (Nov 2026) | Closed | Last Entry | Ticket |
 |------------|--------------------------|--------|------------|--------|
+| **Forbidden City** | 8:30–16:30 | **Monday** | 15:30 | ¥40 (Nov-Mar) |
+| **Tiananmen Square** | Sunrise–sunset | Never | — | Free (ID required) |
+| **Summer Palace (park)** | 6:30–19:00 | Never | 18:00 | ¥20 (Nov-Mar) |
+| **Summer Palace (halls)** | 8:30–17:00 | **Monday** | 16:30 | Combo ¥50 |
+| **Temple of Heaven (park)** | 6:30–22:00 | Never | 21:00 | ¥10 (Nov-Mar) |
+| **Temple of Heaven (halls)** | 8:00–17:00 | **Monday** | 16:30 | Combo ¥28 |
+| **Jinshanling Great Wall** | 6:00–17:00 | Never | 16:00 | ¥55 (off-season) |
 | **Lama Temple** | 9:00–16:30 | Never | 16:00 | ¥25 |
 | **Confucius Temple & Imperial College** | 8:30–17:00 | Never | 16:30 | Combo ¥30 |
 | **798 Art District** | ~10:00–18:00 (galleries) | Some galleries Mon | — | Free |
+| **Hutongs** | All day | Never | — | Free |
 
-### Shanghai (Revised)
+### Xi'an
+
+| Attraction | Opening Hours (Nov 2026) | Closed | Last Entry | Ticket |
+|------------|--------------------------|--------|------------|--------|
+| **Xi'an City Wall** | 8:00–22:00 | Never | 22:00 | ¥54 |
+| **Muslim Quarter** | 24/7 | Never | — | Free |
+| **Bell Tower** | 8:30–18:00 (Nov-Mar) | Never | 17:30 | ¥35 |
+| **Terracotta Warriors** | 8:30–17:30 | Never | — | ¥120 |
+
+### Chengdu
+
+| Attraction | Opening Hours (Nov 2026) | Closed | Last Entry | Ticket |
+|------------|--------------------------|--------|------------|--------|
+| **Dujiangyan Panda Valley** | ~8:00–17:30 (winter est.) | Never | ~16:30 | ¥55 |
+| **Wenshu Temple** | 8:00–17:00 | Never | ~16:30 | Free |
+| **People's Park** | 6:30–22:00 (winter) | Never | — | Free |
+| **Heming Teahouse** | 8:00–21:00 / 9:00–21:00 | Never | — | Tea ~¥20 |
+| **Shufeng Yayun Opera** | Showtime ~20:00 (verify) | Never | — | ¥120–320 |
+| **Jinli Street** | All day | Never | — | Free |
+
+### Leshan
+
+| Attraction | Opening Hours (Nov 2026) | Closed | Last Entry | Ticket |
+|------------|--------------------------|--------|------------|--------|
+| **Leshan Giant Buddha** | 8:00–17:30 (Nov-Mar) | Never | 17:30 | ¥80 |
+
+### Chongqing
+
+| Attraction | Opening Hours (Nov 2026) | Closed | Last Entry | Ticket |
+|------------|--------------------------|--------|------------|--------|
+| **Hongyadong** | 24 hours | Never | — | Free |
+| **Three Gorges Museum** | 9:00–17:00 | **Monday** | 16:30 | Free |
+| **Liziba Station** | 24 hours | Never | — | Free |
+| **Yangtze River Cableway** | 8:00–21:00 (Nov-Mar) | Never | 21:00 | ¥30 one-way |
+
+### Dazu
+
+| Attraction | Opening Hours (Nov 2026) | Closed | Last Entry | Ticket |
+|------------|--------------------------|--------|------------|--------|
+| **Dazu Rock Carvings (Baodingshan)** | 8:30–18:00 | Never | ~16:00 | ¥115 |
+| **Beishan** | 8:30–18:00 | Never | ~16:00 | ¥70 |
+
+### Fenghuang & Furong
+
+| Attraction | Opening Hours (Nov 2026) | Closed | Last Entry | Ticket |
+|------------|--------------------------|--------|------------|--------|
+| **Fenghuang Ancient Town** | Open all day | Never | — | Free (town) |
+| **Furong Ancient Town** | 8:00–24:00 | Never | — | ¥108 |
+
+### Zhangjiajie
+
+| Attraction | Opening Hours (Nov 2026) | Closed | Last Entry | Ticket |
+|------------|--------------------------|--------|------------|--------|
+| **Zhangjiajie National Forest Park** | 7:00–18:00 | Never | ~17:00 | ¥225 (4-day) |
+| **Tianmen Mountain** | 7:00–16:00 (last entry) | Never | 16:00 | ¥288 (Route A) |
+
+### Shanghai
 
 | Attraction | Opening Hours (Nov 2026) | Closed | Last Entry | Ticket |
 |------------|--------------------------|--------|------------|--------|
@@ -188,25 +285,35 @@ You now have **one flexible day** before departure. The original v3.0 plan assig
 | **Shanghai Museum** | 9:00–17:00 | **Monday** | 15:00 | Free |
 | **French Concession** | All day | Never | — | Free |
 
-*Note: Nov 19 (Shanghai day) is a Thursday — Yu Garden and Shanghai Museum are both open.*
+### Hangzhou
+
+| Attraction | Opening Hours (Nov 2026) | Closed | Last Entry | Ticket |
+|------------|--------------------------|--------|------------|--------|
+| **West Lake** | Open all day | Never | — | Free |
+| **Lingyin Temple** | 7:00–17:45 (Oct–Apr) | Never | 17:00 | ¥30 + Feilai Feng ¥45 |
+| **Grand Canal (Gongchen Bridge)** | Open all day | Never | — | Free |
+| **Canal Museum** | 9:00–16:30 | **Monday** | — | Free |
 
 ---
 
-## 7. Remaining Risks & Contingencies
+## 9. Remaining Risks & Contingencies
 
 ### Zhangjiajie Weather (Nov 16–17)
+
 - **Risk:** Peak fog season. Famous pillar views may be completely whiteout.
 - **Contingency:** With **two full days** allocated, you have built-in fog insurance. If Nov 16 is whiteout, you can revisit Wulingyuan on Nov 17 morning and do Tianmen Mountain in the afternoon if it clears. Check the forecast 2–3 days before.
 
 ### High-Speed Rail Bookings (Updated Dates)
+
 - **Beijing → Xi'an** (Nov 5), **Xi'an → Chengdu** (Nov 7), **Chengdu → Chongqing** (Nov 10), **Chongqing → Fenghuang** (Nov 13), **Furong → Zhangjiajie** (Nov 15) — book all in advance via Trip.com. Passports required for foreign travelers.
 
 ### Flights to Confirm
+
 - **Zhangjiajie (DYG) → Shanghai (PVG/SHA):** Morning or afternoon departure needed for Nov 18. 23+ flights/week, ~2h05m.
 
 ---
 
-## 8. Open To-Do List (Updated)
+## 10. Open To-Do List (Updated)
 
 - [ ] Book Forbidden City tickets (required, sell out fast) — **for Nov 1 (Sunday)**
 - [ ] Book Summer Palace + Temple of Heaven tickets (Nov 3 — Tuesday)
@@ -222,4 +329,19 @@ You now have **one flexible day** before departure. The original v3.0 plan assig
 
 ---
 
+## Appendix B: The Zhangjiajie Buffer (Preserved from v3.0, Dates Updated)
+
+The v4.0 itinerary above has **preserved the Zhangjiajie Buffer** by keeping two full days in Zhangjiajie. This gives you:
+
+| Date | Activity |
+|------|----------|
+| **Nov 16** | Wulingyuan (Yuanjiajie, Tianzi Mountain) |
+| **Nov 17** | Tianmen Mountain (Tianmen Cave, 99 bends, glass skywalk) OR second Wulingyuan day if Nov 16 was fogged out |
+| **Nov 18** | Morning/afternoon flight to Shanghai. Evening on the Bund |
+
+**Trade-off:** You lose one leisurely Shanghai day. You still have Nov 18 evening, Nov 19, and Nov 21 in Shanghai — sufficient for the Bund, Yu Garden, French Concession, and museums. Nov 20 remains an **open question** for a day trip or deeper exploration.
+
+---
+
 *Revised: August 2026*
+*Sources: High-speed rail timetables (Trip.com), flight schedules (FlightConnections, Trip.com), UNESCO World Heritage Centre listings, attraction opening hours verified via official Beijing government portal (english.beijing.gov.cn), Trip.com, Travel China Guide, China Discovery, and local tourism boards.*
