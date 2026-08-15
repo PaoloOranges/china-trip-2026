@@ -1,4 +1,9 @@
-# China Trip Plan — November 2026 (v2.0 — Chengdu City Day + Zhangjiajie Buffer Appendix)
+ Here is your revised plan with **4 days in Beijing** (adding the unhurried cultural day) and **2.5 days in Shanghai** (removing one full day). The Hangzhou day trip is now reframed as an **open question** with full alternatives analysis.
+
+---
+
+# China Trip Plan — November 2026 (v4.0 — Beijing Extended + Shanghai Open Day)
+
 **Travelers:** 2 (couple)  
 **Dates:** November 1 – November 21, 2026  
 **Flight home:** November 22, 00:10 from Shanghai Pudong (PVG) to Europe  
@@ -6,167 +11,215 @@
 
 ---
 
-## 1. Final Itinerary (Revised)
+## 1. Final Itinerary (Revised with Days of Week)
 
-| Date | Location | Activity / Notes |
-|------|----------|----------------|
-| **Nov 1** | **Beijing** | Forbidden City + Tiananmen Square |
-| **Nov 2** | **Beijing** | Summer Palace + Temple of Heaven |
-| **Nov 3** | **Jinshanling** | Great Wall day trip. Return to Beijing for the night. |
-| **Nov 4** | **Beijing → Xi'an** | Morning high-speed train (~4.5h). Afternoon: Xi'an City Wall, Muslim Quarter, Bell Tower |
-| **Nov 5** | **Xi'an** | Terracotta Warriors |
-| **Nov 6** | **Xi'an → Chengdu** | Morning train. Afternoon: Jinli Street, teahouse |
-| **Nov 7** | **Chengdu** | **Morning:** Dujiangyan Panda Valley. **Afternoon/evening:** Wenshu Temple, People's Park teahouse, Sichuan Opera, hotpot |
-| **Nov 8** | **Leshan** | Giant Buddha day trip |
-| **Nov 9** | **Chengdu → Chongqing** | Train (~1.5h). Evening: Hongyadong |
-| **Nov 10** | **Chongqing** | Three Gorges Museum, Liziba, cable car, hotpot |
-| **Nov 11** | **Dazu** | **Dazu Rock Carvings** day trip from Chongqing |
-| **Nov 12** | **Chongqing → Fenghuang** | **Morning flight CKG → Tongren (TEN)** (~1h20m + 1h transfer). Afternoon/evening in Fenghuang ancient town |
-| **Nov 13** | **Fenghuang → Furong** | Morning in Fenghuang. Afternoon high-speed train to Furong (~30 min) |
-| **Nov 14** | **Furong → Zhangjiajie** | Morning in Furong. Afternoon train to Zhangjiajie (~30 min) |
-| **Nov 15** | **Zhangjiajie** | National Park (Yuanjiajie, Tianzi Mountain) |
-| **Nov 16** | **Zhangjiajie → Shanghai** | Morning in park. **Evening flight to Shanghai** (~2h) |
-| **Nov 17** | **Shanghai** | The Bund, Yu Garden |
-| **Nov 18** | **Shanghai** | French Concession, museums, or a slow day |
-| **Nov 19** | **Hangzhou** | **Day trip** — Grand Canal waterfront + West Lake + Lingyin Temple |
-| **Nov 20** | **Shanghai** | Leisurely day, last shopping, rooftop drinks |
-| **Nov 21** | **Shanghai → Departure** | Relaxed morning/afternoon. Head to Pudong by 21:00–21:30 for the **00:10 flight** |
+| Date | Day | Location | Activity / Notes |
+|------|-----|----------|----------------|
+| **Nov 1** | **Sun** | **Beijing** | Forbidden City + Tiananmen Square |
+| **Nov 2** | **Mon** | **Beijing** | **Jinshanling Great Wall** day trip. Return to Beijing for the night. |
+| **Nov 3** | **Tue** | **Beijing** | **Summer Palace + Temple of Heaven** |
+| **Nov 4** | **Wed** | **Beijing** | **Unhurried Cultural Day:** Hutongs, Lama Temple, Confucius Temple & Imperial College, 798 Art District |
+| **Nov 5** | **Thu** | **Beijing → Xi'an** | Morning high-speed train (~4.5h). Afternoon: Xi'an City Wall, Muslim Quarter, Bell Tower |
+| **Nov 6** | **Fri** | **Xi'an** | Terracotta Warriors |
+| **Nov 7** | **Sat** | **Xi'an → Chengdu** | Morning train. Afternoon: Jinli Street, teahouse |
+| **Nov 8** | **Sun** | **Chengdu** | **Morning:** Dujiangyan Panda Valley. **Afternoon/evening:** Wenshu Temple, People's Park teahouse, Sichuan Opera, hotpot |
+| **Nov 9** | **Mon** | **Leshan** | Giant Buddha day trip |
+| **Nov 10** | **Tue** | **Chengdu → Chongqing** | Train (~1.5h). Evening: Hongyadong |
+| **Nov 11** | **Wed** | **Chongqing** | Three Gorges Museum, Liziba, cable car, hotpot |
+| **Nov 12** | **Thu** | **Dazu** | **Dazu Rock Carvings** day trip from Chongqing |
+| **Nov 13** | **Fri** | **Chongqing → Fenghuang** | **Morning high-speed train** (~3h 50m + 1h transfer). Afternoon/evening in Fenghuang ancient town |
+| **Nov 14** | **Sat** | **Fenghuang → Furong** | Morning in Fenghuang. Afternoon high-speed train to Furong (~30 min) |
+| **Nov 15** | **Sun** | **Furong → Zhangjiajie** | Morning in Furong. Afternoon train to Zhangjiajie (~30 min) |
+| **Nov 16** | **Mon** | **Zhangjiajie** | National Park (Yuanjiajie, Tianzi Mountain) |
+| **Nov 17** | **Tue** | **Zhangjiajie** | **Extra full day:** Tianmen Mountain (Tianmen Cave, glass skywalk) OR second Wulingyuan day |
+| **Nov 18** | **Wed** | **Zhangjiajie → Shanghai** | **Morning or afternoon flight to Shanghai** (~2h). Evening on the Bund |
+| **Nov 19** | **Thu** | **Shanghai** | The Bund (revisit if needed), Yu Garden, French Concession walking |
+| **Nov 20** | **Fri** | **Shanghai** | **OPEN QUESTION — see Section 4 below:** Hangzhou vs. Suzhou vs. Water Town vs. Deeper Shanghai |
+| **Nov 21** | **Sat** | **Shanghai → Departure** | Relaxed morning/afternoon. Head to Pudong by 21:00–21:30 for the **00:10 flight** |
 
 ---
 
-## 2. Changes from Previous Version
+## 2. Critical Changes from v3.0
 
 | What Changed | From | To | Rationale |
 |--------------|------|-----|-----------|
-| **Nov 7** | Dujiangyan + Mount Qingcheng | **Chengdu city day + Dujiangyan Panda Valley morning** | After discussion, we preferred an unscripted, chill day absorbing local Chengdu culture — teahouses, temples, opera, and hotpot — over a second structured day trip. **Updated:** Added Dujiangyan Panda Valley (熊猫谷) as a half-day morning trip before the city experiences begin. It is less crowded and more natural than the main Chengdu Panda Base, and fits perfectly before the pandas sleep for the day. |
-| **Nov 10** | Ciqikou Ancient Town | **Standard Chongqing city day** | Ciqikou removed — too touristy and commercialized; Fenghuang/Furong deliver the ancient town experience far better. |
-| **Nov 11** | Wulong karst landscape | **Dazu Rock Carvings** | UNESCO cultural site with 60,000+ Tang/Song dynasty statues. Aligns with cultural interests. |
-| **Nov 19** | West Lake only | **Grand Canal + West Lake** | The Beijing–Hangzhou Grand Canal is a UNESCO site. The Gongchen Bridge area fits naturally into the Hangzhou day with zero extra logistics. |
+| **Beijing** | 3 days (Nov 1–3) | **4 days (Nov 1–4)** | Added unhurried cultural day for Hutongs, Lama Temple, Confucius Temple & Imperial College, and 798 Art District. |
+| **Beijing → Xi'an** | Nov 4 | **Nov 5** | Shifted by one day to accommodate the extra Beijing day. |
+| **Shanghai** | 3.5 days + Hangzhou day trip (Nov 17–21) | **2.5 days + Open Question day (Nov 18–21)** | Removed one full Shanghai day. The city is now covered by Nov 18 evening arrival + Nov 19 (full day) + Nov 21 (departure day). Nov 20 is kept as a flexible day-trip slot. |
+| **Sequence shift** | Entire itinerary from Nov 5 onward | **Shifted +1 day** | All downstream dates (Xi'an, Chengdu, Chongqing, Zhangjiajie) move forward by one day. No Monday closure conflicts are introduced — see verification below. |
+
+### Monday Closure Verification After Shift
+
+| Attraction | Original Date | New Date | Monday Closure? | Status |
+|------------|---------------|----------|-----------------|--------|
+| Jinshanling Great Wall | Nov 2 (Mon) | Nov 2 (Mon) | Open daily | ✅ |
+| Summer Palace halls | Nov 3 (Tue) | Nov 3 (Tue) | Open | ✅ |
+| Temple of Heaven halls | Nov 3 (Tue) | Nov 3 (Tue) | Open | ✅ |
+| Leshan Giant Buddha | Nov 8 (Sun) | Nov 9 (Mon) | Open daily | ✅ |
+| Three Gorges Museum | Nov 10 (Tue) | Nov 11 (Wed) | Closed Mon | ✅ |
+| Zhangjiajie parks | Nov 16 (Mon) | Nov 17 (Tue) | Open daily | ✅ |
 
 ---
 
-## 3. New Additions: Details & Advice
+## 3. The New Beijing Cultural Day (Nov 4 — Wednesday)
 
-### Chengdu City Day + Dujiangyan Panda Valley (Nov 7)
+This is designed as a **walking + contemplative day** with no rushed logistics. All four sites are in Beijing; the first three are within 10 minutes' walk of each other.
 
-**What it is:** A morning with giant and red pandas in a natural forest sanctuary, followed by an afternoon and evening experiencing Chengdu as locals live it — tea, temple incense, opera, and sidewalk hotpot.
+### Suggested Schedule
 
-**Why this combination works:** The pandas must be seen in the morning (they sleep after ~10:30 AM). Panda Valley is a half-day trip that gets you back to Chengdu by early afternoon, leaving the entire city rhythm intact. After five consecutive days of structured sightseeing (Beijing → Xi'an → Leshan), the afternoon acts as a mental reset.
+| Time | Activity | Details |
+|------|----------|---------|
+| **09:00–11:00** | **Lama Temple (Yonghegong)** | The most renowned Tibetan Buddhist monastery outside Tibet. Active temple, very atmospheric in the morning. |
+| **11:00–12:30** | **Confucius Temple & Imperial College (Guozijian)** | A 5-minute walk from Lama Temple. The ancient examination halls and cypress trees are serene. Combo ticket covers both. |
+| **12:30–14:00** | **Lunch in Wudaoying Hutong** | Right next to Lama Temple. Renovated hutong with excellent courtyard cafes, Yunnanese, and vegetarian options. |
+| **14:00–16:00** | **Hutong walking** | Option A: Wander Wudaoying → Guozijian Street → Fangjia Hutong (authentic residential alleys). Option B: Taxi/subway to **Shichahai** for the classic lake + hutong + Yandaixiejie experience. |
+| **16:00–18:30** | **798 Art District** | Former factory complex turned contemporary art zone. Best in late afternoon light. Galleries close around 18:00–19:00. |
 
-**Suggested itinerary:**
+### Why This Combination Works
 
-| Time | Activity | Notes |
-|------|----------|-------|
-| **06:00** | Depart hotel | Metro Line 2/6 to **Xipu Station (犀浦站)** → intercity train to **Lidui Park (离堆公园)** (~25 min, ~¥10) → taxi to Panda Valley (~15 min, ~¥15–20). |
-| **07:30** | **Dujiangyan Panda Valley** opens | Head straight to the **Red Panda Ecological Free-Range Area** — red pandas roam the boardwalk at arm's length, most active 7:30–9:00 AM. |
-| **09:00–10:30** | **Giant Panda Villa** | Breakfast feeding time. Pandas climb, eat bamboo, and interact in large natural enclosures. This is the best viewing window. |
-| **10:30–11:30** | Forest loop stroll, exit | One-way path, no backtracking. Small panda-themed cafe on site if needed. |
-| **12:30** | Back in Chengdu — late lunch | **Chen Mapo Tofu** near People's Park, or a back-alley **chuanchuan** (skewered hotpot) spot. |
-| **14:00** | **Wenshu Temple** (文殊院) | A functioning Chan Buddhist monastery. Locals burn incense, monks chant, and the courtyard teahouse is where retirees play mahjong and drink green tea. Free entry. |
-| **15:30** | **People's Park** (人民公园) — **Heming Teahouse** (鹤鸣茶社) | The most famous teahouse in Chengdu, still deeply local. Grab a bamboo chair by the lake, order a covered-bowl tea (盖碗茶, ~¥20). Ear-cleaning practitioners wander by (¥30–60, optional but iconic). |
-| **17:00** | **Sichuan Opera at Shufeng Yayun** (蜀风雅韵) or **Chengdu Opera House** | Face-changing (变脸) is the headline, but a proper show includes puppetry, shadow play, and rolling lamp. Book the ~17:00 show so the evening is free. |
-| **Evening** | **Dongmen Bridge** (东门大桥) or **Yulin Road** (玉林路) area for hotpot | Skip the chains. Find a shop where tables spill onto the sidewalk, waiters shout, and the air smells of beef tallow and chili. |
+- **Geography:** Lama Temple, Confucius Temple, and Wudaoying Hutong form a tight triangle around Yonghegong subway (Lines 2 & 5). You can walk between all three in under 5 minutes.
+- **Pacing:** The morning is spiritual/historic, lunch is relaxed in a courtyard setting, the afternoon is artistic, and the evening is free for a final Beijing dinner (Peking duck or hutong bistro) before the train to Xi'an tomorrow.
 
-**Logistics:** Panda Valley tickets: ¥55/adult, book ahead, bring ID. All afternoon/evening locations are within central Chengdu — Metro, bike-share, or DiDi between stops. No advance tickets needed except for the opera show.
+### Opening Hours & Tickets (Nov 2026)
 
----
-
-### Dazu Rock Carvings (Nov 11)
-- **What it is:** Over 60,000 Tang and Song dynasty statues carved into cliffs. Buddhist, Taoist, and Confucian themes.
-- **Why add it:** Best-preserved cave temple art in China, far less crowded than major sites. November weather (10–20°C) is ideal.
-- **Logistics:** ~1.5h by car or 2h by bus from Chongqing. Best approach: high-speed train Chongqing West → Duzu South (~30 min), then taxi ~40 min to the site. Focus on **Baodingshan** (main site, ¥115) and optionally **Beishan** (combo ticket ¥150).
-- **UNESCO status:** Dazu Rock Carvings (Cultural, 1999).
-
-### Grand Canal — Hangzhou Section (Nov 19)
-- **What it is:** The Beijing–Hangzhou Grand Canal, the longest artificial river in the world.
-- **Why add it:** Zero extra time or travel. Start your Hangzhou day at the **Gongchen Bridge** area and the Canal Museum, then head to West Lake. It is a natural extension of the Hangzhou day trip.
-- **UNESCO status:** The Grand Canal (Cultural, 2014).
+| Attraction | Hours | Closed | Last Entry | Ticket |
+|------------|-------|--------|------------|--------|
+| **Lama Temple** | 9:00–16:30 | Never | 16:00 | ¥25 |
+| **Confucius Temple & Imperial College** | 8:30–17:00 | Never | 16:30 | Combo ¥30 |
+| **798 Art District** | ~10:00–18:00 (galleries) | Never (some galleries closed Mon) | — | Free |
+| **Hutongs** | All day | Never | — | Free |
 
 ---
 
-## 4. UNESCO Sites on This Route
+## 4. The Open Question Day — Nov 20 (Friday): What to Do?
+
+You now have **one flexible day** before departure. The original v3.0 plan assigned this to Hangzhou. Below is a full comparison of four options. You do not need to decide now — monitor weather and energy levels in early November.
+
+### Option A: Hangzhou (Original Plan)
+
+| Aspect | Detail |
+|--------|--------|
+| **What to see** | West Lake (UNESCO), Lingyin Temple & Feilai Feng, Grand Canal at Gongchen Bridge (UNESCO), Leifeng Pagoda area |
+| **Logistics** | Shanghai Hongqiao → Hangzhou East, 45–60 min by high-speed train. Trains every 10–20 min. |
+| **Pros** | Two UNESCO sites in one day; iconic Chinese landscape; West Lake is justifiably famous |
+| **Cons** | **West Lake is enormous** — a day trip only covers a fraction and can feel like a rushed photo circuit. November is peak mist season; the "Ten Scenes of West Lake" may be invisible. Very crowded even in off-season. |
+| **Verdict** | Best if the weather forecast shows **clear skies and low fog**. If it is overcast or rainy, the visual payoff drops significantly. |
+
+### Option B: Suzhou ⭐ Strong Alternative
+
+| Aspect | Detail |
+|--------|--------|
+| **What to see** | **Classical Gardens of Suzhou (UNESCO)** — Humble Administrator's Garden (Zhuozheng Yuan), Lingering Garden (Liu Yuan), or Master of the Nets Garden (Wangshi Yuan); Pingjiang Road canal district; Suzhou Museum (I.M. Pei, free but reserve ahead) |
+| **Logistics** | Shanghai → Suzhou, **20–30 min** by high-speed train. Extremely frequent. |
+| **Pros** | **More compact than Hangzhou** — gardens and the museum are within walking distance of each other. The gardens are the pinnacle of Jiangnan design. Easier to do unhurriedly in 6–7 hours. Suzhou Museum is architecturally stunning. |
+| **Cons** | Gardens are at their absolute best in spring/summer (azaleas, lotus). November is late; foliage is turning but some gardens may look sparse. |
+| **Verdict** | **Better cultural density per hour than Hangzhou.** If you want a UNESCO site with manageable logistics and no weather gamble, this is the pick. |
+
+### Option C: Water Town Day Trip
+
+| Town | Distance from Shanghai | Character | Ticket | Best For |
+|------|------------------------|-----------|--------|----------|
+| **Zhujiajiao** | ~1 hr (Metro Line 17) | Most touristy, very commercial, crowded | ¥0–80 | Convenience only; skip if you have seen Fenghuang/Furong |
+| **Tongli** | ~1.5 hr (train to Suzhou + bus) | More authentic, quieter canals, residential | ~¥100 | Authenticity; can be combined with Suzhou if you are very efficient |
+| **Wuzhen** | ~2 hr (bus) | Highly polished, scenic, famous for night views | ¥150–190 (East + West zones) | Atmosphere; best if you can stay until evening lights |
+| **Jinze** | ~1 hr | Very quiet, almost no tourists, ancient bridges | Free | A "secret" option if you want peace and real village life |
+
+| **Pros** | Classic Jiangnan water town imagery (stone bridges, black-tiled roofs, canal boats). Complements the ancient towns you've already seen (Fenghuang, Furong) with a different regional style. |
+| **Cons** | Can feel repetitive after Fenghuang/Furong. Commercialization is high in Zhujiajiao and Wuzhen. |
+| **Verdict** | Choose this if you specifically want the **canal-town aesthetic** and don't mind a slightly touristy experience. Tongli or Jinze are the best balance. |
+
+### Option D: Deeper Shanghai (No Day Trip)
+
+| Aspect | Detail |
+|--------|--------|
+| **What to see** | Shanghai Museum (bronzes, ceramics, calligraphy — one of China's best); Propaganda Poster Art Centre; Tianzifang; Jing'an Temple; deeper French Concession walking (Wukang Road, Ferguson Lane, Fuxing Park) |
+| **Logistics** | Zero travel stress. Metro/taxi only. |
+| **Pros** | No weather risk. Shanghai Museum alone justifies 2–3 hours. A relaxed pace before a midnight flight is sensible. |
+| **Cons** | You miss a classic Jiangnan excursion. |
+| **Verdict** | Best if **weather is poor** (rain/fog) or if you feel fatigued after 19 days of intensive travel. |
+
+### Our Recommendation
+
+> **If weather is clear:** **Suzhou (Option B)** offers the highest cultural return for a single day, with garden architecture that is genuinely world-class and logistics that are effortless.
+>
+> **If weather is poor or you are tired:** **Deeper Shanghai (Option D)** or **Jinze water town (Option C)** for a low-stress, atmospheric day.
+>
+> **Hangzhou (Option A)** is worth it only if you catch a rare clear November day; otherwise, the lake views will disappoint.
+
+---
+
+## 5. UNESCO Sites on This Route (Updated)
 
 | # | Site | Location | Date Visited | Type |
 |---|------|----------|--------------|------|
-| 1 | Great Wall | Jinshanling | Nov 3 | Cultural |
-| 2 | Imperial Palaces of the Ming and Qing Dynasties | Forbidden City, Beijing | Nov 1 | Cultural |
-| 3 | Temple of Heaven | Beijing | Nov 2 | Cultural |
-| 4 | Summer Palace | Beijing | Nov 2 | Cultural |
-| 5 | Mausoleum of the First Qin Emperor | Terracotta Warriors, Xi'an | Nov 5 | Cultural |
-| 6 | Mount Emei Scenic Area, including Leshan Giant Buddha | Leshan | Nov 8 | Mixed |
-| 7 | **Dazu Rock Carvings** | Dazu | Nov 11 | Cultural |
-| 8 | Wulingyuan Scenic and Historic Interest Area | Zhangjiajie | Nov 15 | Natural |
-| 9 | West Lake Cultural Landscape of Hangzhou | Hangzhou | Nov 19 | Cultural |
-| 10 | **The Grand Canal** | Hangzhou | Nov 19 | Cultural |
+| 1 | Imperial Palaces of the Ming and Qing Dynasties | Forbidden City, Beijing | Nov 1 | Cultural |
+| 2 | Great Wall | Jinshanling | Nov 2 | Cultural |
+| 3 | Summer Palace | Beijing | Nov 3 | Cultural |
+| 4 | Temple of Heaven | Beijing | Nov 3 | Cultural |
+| 5 | Mausoleum of the First Qin Emperor | Terracotta Warriors, Xi'an | Nov 6 | Cultural |
+| 6 | Mount Emei Scenic Area, including Leshan Giant Buddha | Leshan | Nov 9 | Mixed |
+| 7 | Dazu Rock Carvings | Dazu | Nov 12 | Cultural |
+| 8 | Wulingyuan Scenic and Historic Interest Area | Zhangjiajie | Nov 16 | Natural |
+| 9 | West Lake Cultural Landscape of Hangzhou | Hangzhou | *Nov 20 (if chosen)* | Cultural |
+| 10 | The Grand Canal | Hangzhou | *Nov 20 (if chosen)* | Cultural |
+| 11 | Classical Gardens of Suzhou | Suzhou | *Nov 20 (if chosen)* | Cultural |
 
-**Total: 10 UNESCO World Heritage Sites** in 21 days.
-
----
-
-## 5. What Was Removed & Why
-
-| Removed | Reason |
-|---------|--------|
-| **Ciqikou Ancient Town** | Too touristy, crowded, and commercialized. Fenghuang and Furong deliver a far superior ancient town experience. |
-| **Wulong** | Replaced by Dazu. Karst landscape is impressive but Dazu aligns better with the trip's cultural/ancient focus. |
-| **Dujiangyan + Mount Qingcheng** | Replaced by a Chengdu city day. After discussion, we preferred an unscripted local experience over another structured ancient-engineering day trip. **Updated:** Dujiangyan Panda Valley (熊猫谷) added back as a half-day morning trip on Nov 7 — a natural, less-crowded panda sanctuary that fits before the city day begins. |
-| **Panda Base (Chengdu)** | Removed earlier in planning. **Updated:** Replaced by Dujiangyan Panda Valley (熊猫谷) on Nov 7 — a more natural, less-crowded wild-release training center with both giant and red pandas. |
+**Total: 10–11 UNESCO World Heritage Sites** in 21 days, depending on the Nov 20 choice.
 
 ---
 
-## 6. Remaining Risks & Contingencies
+## 6. Updated Opening Hours & Closing Days
 
-### Zhangjiajie Weather (Nov 15)
+### Beijing (New Entries)
+
+| Attraction | Opening Hours (Nov 2026) | Closed | Last Entry | Ticket |
+|------------|--------------------------|--------|------------|--------|
+| **Lama Temple** | 9:00–16:30 | Never | 16:00 | ¥25 |
+| **Confucius Temple & Imperial College** | 8:30–17:00 | Never | 16:30 | Combo ¥30 |
+| **798 Art District** | ~10:00–18:00 (galleries) | Some galleries Mon | — | Free |
+
+### Shanghai (Revised)
+
+| Attraction | Opening Hours (Nov 2026) | Closed | Last Entry | Ticket |
+|------------|--------------------------|--------|------------|--------|
+| **The Bund** | 24 hours | Never | — | Free |
+| **Yu Garden (garden)** | 9:00–16:30 | **Monday** | 16:00 | ¥40 |
+| **Yu Garden Bazaar** | All day | Never | — | Free |
+| **Shanghai Museum** | 9:00–17:00 | **Monday** | 15:00 | Free |
+| **French Concession** | All day | Never | — | Free |
+
+*Note: Nov 19 (Shanghai day) is a Thursday — Yu Garden and Shanghai Museum are both open.*
+
+---
+
+## 7. Remaining Risks & Contingencies
+
+### Zhangjiajie Weather (Nov 16–17)
 - **Risk:** Peak fog season. Famous pillar views may be completely whiteout.
-- **Contingency:** Check the forecast 2–3 days before. If solid fog/low clouds, pivot: spend an extra day in Shanghai/Hangzhou instead. The park is unforgettable in clear weather and deeply frustrating in whiteout.
+- **Contingency:** With **two full days** allocated, you have built-in fog insurance. If Nov 16 is whiteout, you can revisit Wulingyuan on Nov 17 morning and do Tianmen Mountain in the afternoon if it clears. Check the forecast 2–3 days before.
+
+### High-Speed Rail Bookings (Updated Dates)
+- **Beijing → Xi'an** (Nov 5), **Xi'an → Chengdu** (Nov 7), **Chengdu → Chongqing** (Nov 10), **Chongqing → Fenghuang** (Nov 13), **Furong → Zhangjiajie** (Nov 15) — book all in advance via Trip.com. Passports required for foreign travelers.
 
 ### Flights to Confirm
-- **Chongqing (CKG) → Tongren (TEN):** Morning departures needed for Nov 12. ~24 flights/week, ~1h20m.
-- **Zhangjiajie (DYG) → Shanghai (PVG/SHA):** Evening departure needed for Nov 16. 23+ flights/week, ~2h05m.
+- **Zhangjiajie (DYG) → Shanghai (PVG/SHA):** Morning or afternoon departure needed for Nov 18. 23+ flights/week, ~2h05m.
 
 ---
 
-## 7. Open To-Do List
+## 8. Open To-Do List (Updated)
 
-- [ ] Book Forbidden City tickets (required, sell out fast)
-- [ ] Confirm & book flight: Chongqing (CKG) → Tongren (TEN) for Nov 12 morning
-- [ ] Confirm & book flight: Zhangjiajie (DYG) → Shanghai for Nov 16 evening
-- [ ] Book high-speed rail tickets: Beijing→Xi'an, Xi'an→Chengdu, Chengdu→Chongqing
+- [ ] Book Forbidden City tickets (required, sell out fast) — **for Nov 1 (Sunday)**
+- [ ] Book Summer Palace + Temple of Heaven tickets (Nov 3 — Tuesday)
+- [ ] Book high-speed rail tickets: **Beijing→Xi'an (Nov 5)**, Xi'an→Chengdu (Nov 7), Chengdu→Chongqing (Nov 10)
+- [ ] Confirm & book high-speed train: **Chongqing → Fenghuang County for Nov 13 morning** (~08:43 departure)
+- [ ] Confirm & book flight: **Zhangjiajie (DYG) → Shanghai for Nov 18 morning/afternoon**
 - [ ] Monitor Zhangjiajie weather forecast in early November
-- [ ] Book Sichuan Opera tickets for Nov 7 afternoon/evening show (Shufeng Yayun or Chengdu Opera House)
-
----
-## Appendix A: Closing times
-
-- **Forbidden City**: Every Monday Closed. Opening Time Tue-Sun 8.30-16.30. Last Entry 15.30.
-
-## Appendix B: The Zhangjiajie Buffer (Alternative Scenario)
-
-If, after reviewing the itinerary, you feel Zhangjiajie is under-allocated relative to its scale and weather risk, here is a clean alternative that reassigns the Chengdu city day to Zhangjiajie instead.
-
-### What changes
-
-| Date | Original Plan | Zhangjiajie Buffer |
-|------|---------------|-------------------|
-| **Nov 7** | Chengdu city day | *Removed. No dedicated city day.* |
-| **Nov 14** | Furong → Zhangjiajie (afternoon) | Furong → Zhangjiajie (afternoon) — unchanged |
-| **Nov 15** | Zhangjiajie (1 day) | Zhangjiajie: Wulingyuan (Yuanjiajie, Tianzi Mountain) |
-| **Nov 16** | Zhangjiajie → Shanghai (evening flight) | **Zhangjiajie (extra full day):** Tianmen Mountain (Tianmen Cave, glass skywalk) OR second Wulingyuan day if Nov 15 was fogged out |
-| **Nov 17** | Shanghai | **Zhangjiajie → Shanghai** (morning or afternoon flight). Evening on the Bund. |
-
-### Why consider this
-
-- **Fog insurance:** Mid-November is peak mist season in Zhangjiajie. One day is a gamble; two full days inside the parks dramatically improves your odds of seeing the pillars.
-- **Tianmen Mountain:** The original plan covers Wulingyuan (the Avatar peaks) but leaves no time for Tianmen Mountain — the 99-bend road, the cliff glass walkway, and the cave through the karst wall. It is a separate park and needs a half-day minimum.
-- **Breathing room:** Zhangjiajie becomes a three-night stay with two full days inside, turning a rushed, weather-dependent stop into a relaxed highlight.
-
-### The trade-off
-
-You lose the unscripted Chengdu teahouse day. You still get hotpot on Nov 6 evening and Nov 9 evening, and you can still visit Wenshu Temple or People's Park in the afternoon of Nov 6 or the morning of Nov 9 — but the city becomes a hub, not a destination.
-
-**Our current preference:** Keep the Chengdu city day (main itinerary above). The trip is already dense with world-class ancient sites; a day of local rhythm is valuable. But if Zhangjiajie weather anxiety grows as November approaches, this buffer is a clean, logistically simple pivot.
+- [ ] Book Sichuan Opera tickets for Nov 8 evening show (Shufeng Yayun or Chengdu Opera House) — **verify 20:00 showtime**
+- [ ] **Decide on Nov 20 activity by early November** based on weather and energy:
+  - If clear and energetic → **Suzhou** (book Shanghai→Suzhou train, reserve Suzhou Museum ticket)
+  - If foggy/rainy or tired → **Deeper Shanghai** or **Jinze**
+  - If specifically wanting the lake → **Hangzhou** (book train, check Lingyin Temple hours)
 
 ---
 
-*Revised: August 2026*  
-*Sources: High-speed rail timetables (Trip.com, China Highlights), flight schedules (FlightConnections, Trip.com), UNESCO World Heritage Centre listings, travel guides (The China Guide, China Highlights)*
+*Revised: August 2026*
